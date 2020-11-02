@@ -1,4 +1,4 @@
-# Hi! I'm yagel15637, or 15637 Programmer! (Reap)#9364 on Discord.
+# Hi! I'm yagel15637, or 15637 Programmer! (Reap)#1234 on Discord.
 
 ### I do all kinds of programming in various programming languages, most common ones being Kotlin (For FTC Programming), and Java (For Minecraft Utility Mod Programming), but I can help with whatever you need help with!
 
