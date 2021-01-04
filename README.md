@@ -4,4 +4,4 @@
 
 ##### If You need any help just mention me in a pull request's comment (@yagel15637), or DM me in my Discord, I'm ~~(almost)~~ always ready to help! (NOTE: Please don't waste my time with stupid questions like "how do I skid kami". I will not answer. Also, my DMs are closed (as for now) because of the question I mentioned above appearing in my DMs way too often, friend me and I'll ask who you are, just tell me you came from this page. :D
 
-##### My Current Project's Discord Server (Outside of FTC, FTC 4 life :smile:): https://discord.gg/K97pfYV (Skylight Client)
+##### My current project's Discord server: https://discord.gg/K97pfYV (Café Development)
